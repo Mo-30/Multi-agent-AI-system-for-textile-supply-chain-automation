@@ -1,4 +1,4 @@
-# Nexus AI — Textile Supply Chain Orchestration
+# Multi-agent-AI-system-for-textile-supply-chain-automation
 
 > **Automating textile procurement from fabric selection to compliance validation using multi-agent AI architecture.**
 
@@ -11,7 +11,8 @@
 
 ## Overview
 
-Nexus AI is an intelligent supply chain management system designed to automate the entire textile procurement workflow. Built with the growing local fashion industry in mind, this system addresses a critical challenge: supply chain decisions that are traditionally fragmented, slow, and heavily dependent on manual processes.
+
+Multi-agent-AI-system-for-textile-supply-chain-automation is an intelligent supply chain management system designed to automate the entire textile procurement workflow. Built with the growing local fashion industry in mind, this system addresses a critical challenge: supply chain decisions that are traditionally fragmented, slow, and heavily dependent on manual processes.
 
 The system employs five specialized AI agents, each handling a specific stage of the procurement workflow—from selecting raw materials to validating supplier compliance. What traditionally takes 4-6 weeks can now be accomplished in minutes.
 
